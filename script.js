@@ -10,7 +10,7 @@
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
-  owner: 'Jonas Schmedtmann',
+  owner: 'Aytac Serce',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -25,12 +25,12 @@ const account1 = {
     '2022-07-19T23:36:17.929Z',
     '2022-07-21T10:51:36.790Z',
   ],
-  currency: 'EUR',
-  locale: 'pt-PT', // de-DE
+  currency: 'TRY',
+  locale: 'tr-TR', // de-DE
 };
 
 const account2 = {
-  owner: 'Jessica Davis',
+  owner: 'Busra Serce',
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
