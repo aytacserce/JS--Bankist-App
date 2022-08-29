@@ -3,11 +3,8 @@
 
 ---
 
-Login Info { username - password
-                as   /     1111 // or  
-                bs   /     2222
-            }
-            
+Login Info: User 1: username:"as", password:"1111" // User 2: username:"bs", password:"2222"
+
 ---
 
 This is a small bank application that can keep withdrawal and deposit records, send money to the other account or request a loan from the bank after logging in.
