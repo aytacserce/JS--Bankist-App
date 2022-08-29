@@ -11,4 +11,8 @@ This is a small bank application that can keep withdrawal and deposit records, s
 
 ---
 
+<img width="600px" src="https://github.com/cptsprrw/JS--Bankist-App/blob/main/Bankist-screenshot.png?raw=true" />
+
+---
+
 <img width="600px" src="https://github.com/cptsprrw/JS--Bankist-App/blob/main/Bankist-flowchart.png?raw=true" />
