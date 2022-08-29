@@ -16,3 +16,10 @@ This is a small bank application that can keep withdrawal and deposit records, s
 ---
 
 <img width="600px" src="https://github.com/cptsprrw/JS--Bankist-App/blob/main/Bankist-flowchart.png?raw=true" />
+
+---
+
+### :hammer_and_wrench: Languages and Tools Used:
+- HTML
+- CSS
+- JavaScript
